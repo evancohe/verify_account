@@ -2,4 +2,4 @@
 
 ## verify page for login your account.
 
-![screenshot](Screen Shot.png)
+![screenshot](screen_shot.png)
