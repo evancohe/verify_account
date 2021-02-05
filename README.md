@@ -2,4 +2,4 @@
 
 ## verify page for login your account.
 
-![screenshot](screen_shot.png =250x)
+<img src="screen_shot.png" width="200">
