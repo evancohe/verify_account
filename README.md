@@ -1,5 +1,4 @@
 ## verify page for login your account.
-
 #### - Responsive
 #### - automatic forward
 #### - Color changed when finished
